@@ -1,0 +1,10 @@
+{
+  "id": "org.toonstream.addon",
+  "version": "1.0.0",
+  "name": "ToonStream",
+  "description": "Watch cartoons and anime",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "catalogs": [],
+  "idPrefixes": ["tt"]
+}
